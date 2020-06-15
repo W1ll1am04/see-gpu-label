@@ -1,0 +1,6 @@
+C:\Users\willi\source\repos\see-gpu-label\see-gpu-label\bin\Debug\see-gpu-label.exe.config
+C:\Users\willi\source\repos\see-gpu-label\see-gpu-label\bin\Debug\see-gpu-label.exe
+C:\Users\willi\source\repos\see-gpu-label\see-gpu-label\bin\Debug\see-gpu-label.pdb
+C:\Users\willi\source\repos\see-gpu-label\see-gpu-label\obj\Debug\see-gpu-label.csprojAssemblyReference.cache
+C:\Users\willi\source\repos\see-gpu-label\see-gpu-label\obj\Debug\see-gpu-label.exe
+C:\Users\willi\source\repos\see-gpu-label\see-gpu-label\obj\Debug\see-gpu-label.pdb

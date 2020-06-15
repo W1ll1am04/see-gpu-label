@@ -1,0 +1,8 @@
+C:\Users\willi\source\repos\see-gpu-label\see-gpu-label\bin\Release\see-gpu-label.exe.config
+C:\Users\willi\source\repos\see-gpu-label\see-gpu-label\bin\Release\see-gpu-label.exe
+C:\Users\willi\source\repos\see-gpu-label\see-gpu-label\bin\Release\see-gpu-label.pdb
+C:\Users\willi\source\repos\see-gpu-label\see-gpu-label\obj\Release\see-gpu-label.csprojAssemblyReference.cache
+C:\Users\willi\source\repos\see-gpu-label\see-gpu-label\obj\Release\see-gpu-label.exe
+C:\Users\willi\source\repos\see-gpu-label\see-gpu-label\obj\Release\see-gpu-label.pdb
+C:\Users\willi\source\repos\see-gpu-label\see-gpu-label\obj\Release\see-gpu-label.csproj.GenerateResource.cache
+C:\Users\willi\source\repos\see-gpu-label\see-gpu-label\obj\Release\see_gpu_label.Properties.Resources.resources
